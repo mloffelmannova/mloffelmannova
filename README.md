@@ -1,5 +1,5 @@
 <html>
-<h1 align="center">Hi, I'm Michaela</h1>
+<h1 align="center">Hi, I'm Misaki ya</h1>
 <h3 align="center">A passionate frontend developer from Czech republic!</h3>
 
 <h4 align="center">Know about my experiences [v HTML, C#, python, ...]</h4>
